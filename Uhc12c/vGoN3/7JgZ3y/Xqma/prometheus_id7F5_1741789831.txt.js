@@ -4,7 +4,6 @@ const importPlugin = require('eslint-plugin-import');
 const jestPlugin = require('eslint-plugin-jest');
 const jsxA11yPlugin = require('eslint-plugin-jsx-a11y');
 const lodashPlugin = require('eslint-plugin-lodash');
-const barrelPlugin = require('eslint-plugin-no-barrel-files');
 const reactPlugin = require('eslint-plugin-react');
 const testingLibraryPlugin = require('eslint-plugin-testing-library');
 
